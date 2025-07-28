@@ -99,7 +99,7 @@
             //Console.WriteLine(intRange.Length());
             //
             //Console.WriteLine("=====================");
-            //
+            // 
             //var doubleRange = new Range<double>(36.3 , 80.2);
             //Console.WriteLine(doubleRange.IsRange(90));
             //Console.WriteLine(doubleRange.ToString());
